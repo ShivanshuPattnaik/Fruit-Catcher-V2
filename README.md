@@ -2,7 +2,7 @@
 
 NEW FEATURES
 
-/\/\/\/\/\/\
+------------
 
 1. SCORING SYSTEM
 2. ENDING SCHEME
